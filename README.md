@@ -1,2 +1,5 @@
 # WormChase
-A Java game development project chasing worms. 
+
+__A Java game development project using statistical chasing worms.__
+
+![image](images/Wormchase.png)
